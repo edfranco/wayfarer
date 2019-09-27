@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wayfarer/static/css/main.3d7ab09b.chunk.css",
-    "main.js": "/wayfarer/static/js/main.08495301.chunk.js",
-    "main.js.map": "/wayfarer/static/js/main.08495301.chunk.js.map",
+    "main.js": "/wayfarer/static/js/main.b7ee5a37.chunk.js",
+    "main.js.map": "/wayfarer/static/js/main.b7ee5a37.chunk.js.map",
     "runtime~main.js": "/wayfarer/static/js/runtime~main.9aa6ee55.js",
     "runtime~main.js.map": "/wayfarer/static/js/runtime~main.9aa6ee55.js.map",
     "static/js/2.d43f7aeb.chunk.js": "/wayfarer/static/js/2.d43f7aeb.chunk.js",
     "static/js/2.d43f7aeb.chunk.js.map": "/wayfarer/static/js/2.d43f7aeb.chunk.js.map",
     "index.html": "/wayfarer/index.html",
-    "precache-manifest.fd84f023599c089b7a4e21da229c9c4f.js": "/wayfarer/precache-manifest.fd84f023599c089b7a4e21da229c9c4f.js",
+    "precache-manifest.e5ff29c4f92b59b6eda743f9e48b6fca.js": "/wayfarer/precache-manifest.e5ff29c4f92b59b6eda743f9e48b6fca.js",
     "service-worker.js": "/wayfarer/service-worker.js",
     "static/css/main.3d7ab09b.chunk.css.map": "/wayfarer/static/css/main.3d7ab09b.chunk.css.map"
   }
